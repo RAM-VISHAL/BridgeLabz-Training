@@ -25,7 +25,7 @@ public class CartItem {
 	           System.out.println("Removed " + quantityToRemove + " of " + this.itemName + " from the cart.");
 	       }
 	   }
-	   // Method to calculate the total cost of the items in the cart
+	  
 	   public double totalCost() {
 	       return this.price * this.quantity;
 	   }
