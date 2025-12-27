@@ -11,7 +11,7 @@ public class StudentsGrades {
 		this.rollNumber=rollNumber;
 		this.marks=marks;
 	}
-	//creating method to calculate grade
+	
 	public String calculateGrade(double[] marks ) {
 		//variable to store the totalmarks
 		double totalMarks = calculateTotalMarks(marks);
