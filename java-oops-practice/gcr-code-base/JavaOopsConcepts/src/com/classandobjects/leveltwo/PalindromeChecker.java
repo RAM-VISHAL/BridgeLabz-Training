@@ -9,7 +9,7 @@ public class PalindromeChecker {
 		this.text=text;
 		
 	}
-	//Creating the method to check its palindrome or not
+	
 	public boolean isPalindrome() {
 	//To remove the space and return consistent text
 	String cleantext=text.replaceAll("\\s","").toLowerCase();
