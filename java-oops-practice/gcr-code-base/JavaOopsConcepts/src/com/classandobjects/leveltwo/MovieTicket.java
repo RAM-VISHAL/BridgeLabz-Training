@@ -19,7 +19,7 @@ public class MovieTicket {
 		if(isBooked) {
 			System.err.println("House full!!! sorry..... Ticket already booked");
 		}
-		//getting the details if not booked
+		//getting the details if not 
 		else {
 			this.seatNumber = seatNumber;
 			this.price = price;
