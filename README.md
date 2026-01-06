@@ -215,3 +215,27 @@ BridgeLabz-Training/
 ## 🔗 Code Link
 
 👉 [Day 9 – LeetCode Problem](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+
+# 📅 Day 10 – Scenario-based Problem
+
+**Date:** 27-Dec-2025
+
+---
+
+## 🔹 Activities Performed
+
+- Solved scenario-based questions:
+  - Shopkeeper’s Discount Dashboard
+  - School Bus Attendance System
+  - Phone Recharge Simulator
+- Practiced problems on LeetCode.
+- Solved array-related problems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+## 🔗 Code Link
+
+👉 [Day 10 – Scenario-based Problem](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/scenario-based)
