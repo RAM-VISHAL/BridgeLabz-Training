@@ -132,3 +132,32 @@
 ## 🔗 Code Link
 
 👉 [Day 15 – Scenario based problems](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/javaOopsScenarioBased/src/com)
+
+
+# 📅 Day 16 – Scenario based & Real-World OOP Design
+
+**Date:** 03-Jan-2026
+
+---
+
+## 🔹 Activities Performed
+
+- Practiced scenario-based problems like:
+  - **CabbyGo – A Ride-Hailing App in the Making**
+  - **MyBank – Managing Customer Accounts**
+- Broke complex logic into small, reusable methods for better readability.
+- Practiced method decomposition to improve maintainability.
+- Applied Object-Oriented Programming using real-world, story-driven scenarios.
+- Implemented core OOP principles:
+  - Encapsulation
+  - Inheritance
+  - Abstraction
+  - Polymorphism
+
+
+---
+
+## 🔗 Code Link
+
+👉 [Day 16 – Scenario based problems](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/javaOopsScenarioBased/src/com)
+
