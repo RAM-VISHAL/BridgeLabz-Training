@@ -161,3 +161,29 @@
 
 👉 [Day 16 – Scenario based problems](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/javaOopsScenarioBased/src/com)
 
+
+# 📅 Day 17 – Scenario based problems
+
+**Date:** 05-Jan-2026
+
+## 🔹 Activities Performed
+
+- Practiced scenario-based problems such as:
+  - **CampusConnect – College Information System**
+  - **SwiftCart – The Grocery Shopping App**
+- Broke complex logic into small, reusable methods for readability.
+- Practiced method decomposition to improve maintainability.
+- Applied Object-Oriented Programming using real-world, story-driven scenarios.
+- Implemented:
+  - Encapsulation
+  - Inheritance
+  - Abstraction
+  - Polymorphism
+- Committed and pushed all changes successfully.
+
+
+## 🔗 Code Link
+
+👉 [Day 17 – Scenario based problems](YOUR_GITHUB_LINK_HERE)
+
+
