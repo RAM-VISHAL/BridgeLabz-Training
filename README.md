@@ -196,3 +196,22 @@ BridgeLabz-Training/
 ## 🔗 Code Link
 
 👉 [Day 8 – Scenario-based Problem](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+
+# 📅 Day 9 – LeetCode and Scenario-based Problem
+
+**Date:** 26-Dec-2025
+
+
+## 🔹 Activities Performed
+
+- Practiced problems on LeetCode.
+- Solved array-related problems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+
+
+## 🔗 Code Link
+
+👉 [Day 9 – LeetCode Problem](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
