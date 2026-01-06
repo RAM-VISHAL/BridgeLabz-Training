@@ -184,6 +184,36 @@
 
 ## 🔗 Code Link
 
-👉 [Day 17 – Scenario based problems](YOUR_GITHUB_LINK_HERE)
+👉 [Day 17 – Scenario based problems](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/javaOopsScenarioBased/src/com)
+
+
+# 📅 Day 18 – Scenario based problems
+
+**Date:** 06-Jan-2026
+
+---
+
+## 🔹 Activities Performed
+
+- Practiced scenario-based problems with examples such as:
+  - **EduMentor – Personalized Learning Platform**
+  - **FitTrack – Your Personal Fitness Tracker**
+  - **PetPal – Virtual Pet Care App**
+  - **EventEase – Event Management Platform**
+- Broke complex logic into small, reusable methods for readability  
+- Practiced method decomposition to improve maintainability  
+- Applied Object-Oriented Programming (OOP) using real-world, story-driven scenarios  
+- Implemented key OOP principles:  
+  - Encapsulation  
+  - Inheritance  
+  - Abstraction  
+  - Polymorphism  
+
+---
+
+## 🔗 Code Link
+
+👉 [Day 17 – Scenario based problems](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/javaOopsScenarioBased/src/com)
+
 
 
