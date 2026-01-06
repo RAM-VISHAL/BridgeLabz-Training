@@ -67,3 +67,30 @@
 
 👉 [Day 11 – Static, Final & Type Checking](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/javakeyword)
 
+
+# 📅 Day 13 – Inheritance
+
+**Date:** 31-Dec-2025
+
+
+
+## 🔹 Activities Performed
+
+- Learned Java Inheritance to reuse properties and behaviors from parent classes.
+- Implemented:
+  - Single Inheritance
+  - Multilevel Inheritance
+  - Hierarchical Inheritance
+- Practiced method overriding to safely modify parent class behavior.
+- Used `super()` to invoke parent class constructors.
+- Applied inheritance with polymorphism for dynamic method dispatch.
+- Understood access control using `public`, `protected`, `default`, and `private` members.
+- Committed and pushed all changes successfully.
+
+
+
+## 🔗 Code Link
+
+👉 [Day 13 – Inheritance](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
+
+
