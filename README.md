@@ -239,3 +239,28 @@ BridgeLabz-Training/
 ## 🔗 Code Link
 
 👉 [Day 10 – Scenario-based Problem](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+
+# 📅 Day 11 – Leetcode and Scenario-based Problem
+
+**Date:** 29-Dec-2025
+
+
+
+## 🔹 Activities Performed
+
+- Solved scenario-based questions:
+  - Movie Ticket Booking App
+  - Rohan’s Library Reminder App
+- Practiced problems on LeetCode.
+- Solved array-related problems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+
+
+## 🔗 Code Link
+
+👉 [Day 11 – Scenario-based Problem](YOUR_GITHUB_LINK_HERE)
+
+---
