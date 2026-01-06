@@ -261,6 +261,6 @@ BridgeLabz-Training/
 
 ## 🔗 Code Link
 
-👉 [Day 11 – Scenario-based Problem](YOUR_GITHUB_LINK_HERE)
+👉 [Day 11 – Scenario-based Problem](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
