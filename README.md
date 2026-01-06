@@ -264,3 +264,30 @@ BridgeLabz-Training/
 👉 [Day 11 – Scenario-based Problem](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
+
+# 📅 Day 12 – Scenario-based Problem
+
+**Date:** 30-Dec-2025
+
+
+
+## 🔹 Activities Performed
+
+- Solved scenario-based questions:
+  - Raj’s Result Generator
+  - Metro Smart Card Fare Deduction
+- Practiced problems on LeetCode.
+- Solved problems related to arrays and strings.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+
+
+## 🔗 Code Link
+
+👉 [Day 12 – Scenario-based Problem](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
+
+
+
