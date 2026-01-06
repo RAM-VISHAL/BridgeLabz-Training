@@ -113,4 +113,22 @@
 👉 [Day 14 – Encapsulation](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
 
+# 📅 Day 15 – Modular Methods & Real-World OOP Design
 
+**Date:** 02-Jan-2026
+
+---
+
+## 🔹 Activities Performed
+
+- Broke complex logic into small, reusable methods for readability  
+- Designed focused methods like `validateUserInput()` and `calculateDiscount()`  
+- Practiced method decomposition to improve maintainability  
+- Applied OOP using real-world, story-driven scenarios  
+- Implemented Encapsulation, Inheritance, Abstraction & Polymorphism  
+
+---
+
+## 🔗 Code Link
+
+👉 [Day 15 – Scenario based problems](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/javaOopsScenarioBased/src/com)
