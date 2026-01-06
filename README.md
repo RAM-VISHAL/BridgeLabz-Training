@@ -94,3 +94,23 @@
 👉 [Day 13 – Inheritance](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
 
 
+
+# 📅 Day 14 – Encapsulation, Interfaces and Polymorphism
+
+**Date:** 01-Jan-2026
+
+## 🔹 Activities Performed
+
+- Learned Java Inheritance to reuse properties and behaviors from parent classes.
+- Implemented **Encapsulation** to protect data and ensure controlled access.
+- Practiced **method overriding** to safely modify parent class behavior.
+- Used **getter** and **setter** methods for accessing and updating private fields.
+- Applied **encapsulation with polymorphism** for dynamic method dispatch.
+
+
+## 🔗 Code Link
+
+👉 [Day 14 – Encapsulation](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+
+
+
