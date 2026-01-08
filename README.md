@@ -345,3 +345,23 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository  
 ## 🔗 Code Link:
 👉 [Day 15 – LinkedList](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist) 
+
+
+# 🗓️ Day 16 – Stack, Queue, HashMap and Hashing Function  
+📅 **Date:** 03-Jan-2026  
+
+---
+
+## 📌 Topics Covered
+
+- Introduction to Stacks
+- Types of Queue in Java  
+  - Simple Queue  
+  - PriorityQueue  
+  - Deque  
+
+---
+## 🔗 Code Link
+👉 [Day 16 – Stack and Queue](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/stackandqueue)
+
+
