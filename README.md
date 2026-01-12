@@ -387,3 +387,33 @@ BridgeLabz-Training/
 👉 [Day 17 – Sorting Algorithms](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/sorting)
 
 
+
+
+
+# 🗓️ Day 18 – StringBuilder, StringBuffer, Linear Search and Binary Search  
+**Date:** 06-Jan-2026  
+
+## 📌 Overview  
+Introduction to Linear Search and Binary Search algorithms.
+
+---
+
+## 📚 Topics Covered  
+
+- **StringBuilder**  
+- **StringBuffer**  
+- **FileReader**  
+- **InputStreamReader**
+
+---
+
+
+## 🔗 Code Link  
+👉 [Day 18 – StringBuilder, StringBuffer](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/stringbuilder))
+
+---
+
+
+
+
+
