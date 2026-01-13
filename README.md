@@ -413,6 +413,26 @@ Introduction to Linear Search and Binary Search algorithms.
 
 ---
 
+# 📅 Day 21 – Java OOPS Scenario based problems  
+**(Date: 09-Jan-2026)**  
+
+- Practiced Scenario based problems like  
+  - Artify – Digital Art Marketplace  
+  - FoodLoop – Restaurant Ordering System  
+  - SkillForge – Online Learning Portal  
+
+- Broke complex logic into small, reusable methods for readability  
+
+- Practiced method decomposition to improve maintainability  
+
+- Applied OOP using real-world, story-driven scenarios  
+
+- Implemented Encapsulation, Inheritance, Abstraction & Polymorphism  
+
+## 🔗 Code Link  
+  👉 [Day 21 – Java OOPS Scenario based problems Java OOPS](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based/javaOopsScenarioBased/src/com)
+
+
 
 
 
