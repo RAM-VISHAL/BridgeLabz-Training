@@ -15,7 +15,7 @@ public class FleetManagerApp {
 
         FleetManager.mergeSort(vehicles);
 
-        System.out.println("🚚 Master Maintenance Schedule (by Mileage):");
+        System.out.println(" Master Maintenance Schedule (by Mileage):");
 
         for (Vehicle v : vehicles) {
             System.out.println(v.getVehicleId() +
