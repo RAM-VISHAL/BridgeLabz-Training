@@ -50,3 +50,21 @@
 
 🔗 **Code Link:**  
 👉 [Day 03 – Sorting Algorithms](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/sorting)
+
+---
+
+### 🗓 Day 04 – Linear Search and Binary Search
+**(Date: 06-Jan-2026)**
+
+- Introduction to Linear Search and Binary Search algorithms
+- Topics covered
+  - StringBuilder
+  - StringBuffer
+  - FileReader
+  - InputStreamReader
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 04 – Linear Search and Binary Search](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/searching)
+
