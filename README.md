@@ -112,3 +112,20 @@
 
 🔗 **Code Link:**  
 👉 [Day 10 – Data Structure Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based)
+
+---
+
+### 🗓 Day 11 – Sorting Scenario based problem solving
+**(Date: 15-Jan-2026)**
+
+- Sorting scenario-based problems 
+  - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+  - SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+  - ZipZipMart – Daily Sales Summary Report (Merge Sort)
+  - ExamCell – Student Rank Generator (Merge Sort)
+  - EventManager – Ticket Price Optimizer (Quick Sort)
+- Practiced Scenario based questions of sorting algorithms
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 11 – Sorting Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based)
