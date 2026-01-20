@@ -32,3 +32,21 @@
 🔗 **Code Link:**  
 👉 [Day 02 – Stack, Queue](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/stackandqueue)
 
+---
+
+### 🗓 Day 03 – Sorting algorithms
+**(Date: 05-Jan-2026)**
+
+- Introduction to Sorting algorithms
+- Some sorting algorithms 
+  - Bubble sort
+  - Insertion sort
+  - Selection Sort
+  - Heap sort
+  - Merge sort
+  - quick sort
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 03 – Sorting Algorithms](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/sorting)
