@@ -144,3 +144,19 @@
 
 🔗 **Code Link:**  
 👉 [Day 12 – Sorting Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/dsaScenarioBased/src/com/sorting)
+
+---
+
+### 🗓 Day 13 – Sorting Scenario based problem solving
+**(Date: 17-Jan-2026)**
+
+- Real-world scenario-based problems involving sorting algorithms(Bubble Sort, Insertion Sort, Merge Sort)
+  - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+  - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  - SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+- Practiced Scenario based questions of sorting algorithms
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 13 – Sorting Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/dsaScenarioBased/src/com/sorting)
