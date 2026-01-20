@@ -1,20 +1,20 @@
-# 📘 Day 15 – Java DSA Practice: Linked List
-**Date:** 02-Jan-2026  
+## BridgeLabz-Training
+## Week 03 - Data Structures & Algorithms
+### 🗓 Day 01 – Java DSA practice and Linked List 
+**(Date: 02-Jan-2026)**
 
----
+- Introduction of Data Structure 
+- Key Features of Data Structures in Java
+- Types of Data Structures in Java
+- Types of Linked- List
+    - Single Linked List
+    - Double Linked List
+    - Circular  Linked List
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
 
-## 🔹 Topics Covered
-- Introduction to Data Structures  
-- Key Features of Data Structures in Java  
-- Types of Data Structures in Java  
-- Types of Linked List  
-  - Single Linked List  
-  - Double Linked List  
-  - Circular Linked List    
-- Solved practice problems based on programming elements  
-- Committed and pushed solutions to the repository  
-## 🔗 Code Link:
-👉 [Day 15 – LinkedList](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist) 
+🔗 **Code Link:**  
+👉 [Day 01 – LinkedList](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist) 
 
 ---
 
@@ -97,3 +97,18 @@
 
 🔗 **Code Link:**  
 👉 [Day 09 – Data Structure Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based)
+
+---
+
+### 🗓 Day 10 – Data Structure Scenario based problem solving
+**(Date: 13-Jan-2026)**
+
+- Real-world scenario-based problems 
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+- Time and space Complexity Optimization.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 10 – Data Structure Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based)
