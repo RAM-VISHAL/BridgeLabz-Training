@@ -449,5 +449,30 @@ Introduction to Linear Search and Binary Search algorithms.
 👉[Day 22 – Data Structure Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based)
 
 
+---
+
+### 🗓 Day 23 – Data Structure and OOPS scenario based problem solving
+**(Date: 12-Jan-2026)**
+
+- Real-world DSA scenario-based problems 
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly LinkedList)
+  - TextEditor – Undo/Redo Functionality (Stack)
+  - Time and space Complexity Optimization.
+
+- Real-world OOPS scenario-based problems 
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+  - Integrating Classes, Variables & Methods,
+Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
+(Encapsulation, Inheritance, Abstraction, Polymorphism).
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 23 – Data Structure Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based)
+
+👉 [Day 23 – OOPS Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based)
+
 
 
