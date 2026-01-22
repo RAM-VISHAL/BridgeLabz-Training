@@ -526,3 +526,25 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
 🔗 **Code Link:**  
 👉 [Day 26 – Sorting Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/dsaScenarioBased/src/com/sorting)
 
+---
+### 🗓 Day 27 – Data Structure and OOPS scenario based problem solving
+**(Date: 17-Jan-2026)**
+
+- Real-world scenario-based problems involving sorting algorithms(Bubble Sort, Insertion Sort, Merge Sort)
+  - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+  - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  - SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+- Practiced Scenario based questions of sorting algorithms
+
+- OOP Concepts Scenario-based Problems(Classes, Objects, Constructors, Encapsulation, Method Creation, this keyword)
+  - Bag-n-Ball Organizer
+  - GeoMeasure Solutions
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 27 – Sorting Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/dsaScenarioBased/src/com/sorting)
+
+👉 [Day 27 – OOPS Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based)
+
+---
