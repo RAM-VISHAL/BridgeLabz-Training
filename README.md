@@ -569,3 +569,18 @@ contacts and relationships
 👉 [Day 28 – OOPS Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based)
 
 ---
+
+### 🗓 Day 29 – Data Structure scenario based problem solving
+**(Date: 20-Jan-2026)**
+
+- Real-world scenario-based problems involving sorting algorithms(Bubble Sort, Insertion Sort, Merge Sort)
+  - MovieTime – Theater Show Listings (Insertion Sort)
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+- Practiced Scenario based questions of sorting algorithms
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 29 – Sorting Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/dsaScenarioBased/src/com/sorting)
+
+---
