@@ -474,5 +474,24 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
 
 👉 [Day 23 – OOPS Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based)
 
+---
+### 🗓 Day 24 – Data Structure and OOPS scenario based problem solving
+**(Date: 13-Jan-2026)**
+
+- Real-world DSA scenario-based problems 
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+
+- Real-world OOPS scenario-based problems 
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary
+- Time and space Complexity Optimization.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 24 – Data Structure Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based)
+
+👉 [Day 24 – OOPS Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based)
 
 
