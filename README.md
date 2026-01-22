@@ -548,3 +548,24 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
 👉 [Day 27 – OOPS Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based)
 
 ---
+
+### 🗓 Day 28 – Data Structure and OOPS scenario based problem solving
+**(Date: 19-Jan-2026)**
+
+- Real-world scenario-based problems involving sorting algorithms(Bubble Sort, Insertion Sort, Merge Sort)
+  - EduResults – Rank Sheet Generator (Merge Sort)
+  - FlashDealz – Product Sorting by Discount (Quick Sort)
+  - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- Practiced Scenario based questions of sorting algorithms
+
+- OOP Concepts Scenario-based Problems(Classes, Objects, Constructors, Encapsulation, Method Creation, this keyword)
+  - Address Book System - DigiContact Pvt. Ltd., a startup creating digital tools for managing
+contacts and relationships
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 28 – Sorting Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/dsaScenarioBased/src/com/sorting)
+
+👉 [Day 28 – OOPS Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based)
+
+---
