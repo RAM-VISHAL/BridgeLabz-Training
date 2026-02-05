@@ -1,8 +1,3 @@
-/**
- * 
- */
-/**
- * 
- */
+
 module Java8Practice {
 }
