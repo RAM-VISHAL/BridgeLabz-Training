@@ -610,3 +610,21 @@ contacts and relationships
 🔗 *Code Link:*  
 👉 [Day 30 – Regex, Junit ](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/regex)
 👉 [Day 30 – Regex, Junit ](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/junitpractice/src)
+
+---
+
+
+### 📅 Day 31 – Java Collections & Core Java: Reflection and Annotations
+**(Date: 22-Jan-2026)**
+**(Focus: Runtime Metadata & Dynamic Behavior in Java)**
+
+- Studied Java Reflection to inspect classes, methods, fields, and constructors at runtime.
+- Learned how to access and invoke methods dynamically and analyze class metadata using the Reflection API.
+- Explored Java Annotations to add metadata to classes, methods, and fields.
+- Understood the use of custom annotations and how they are processed at runtime using reflection.
+- Focused on using reflection and annotations for framework-level features, clean design, and advanced Java use cases.
+
+🔗 *Code Link:*  
+👉 [Day 31 – Reflection ](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/reflection)
+👉 [Day 31 – Annotation Practice](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/annotation)
+
