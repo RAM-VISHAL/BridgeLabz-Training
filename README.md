@@ -628,3 +628,18 @@ contacts and relationships
 👉 [Day 31 – Reflection ](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/reflection)
 👉 [Day 31 – Annotation Practice](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/annotation)
 
+---
+## Week 5: Java IOStreams
+### 📅 Day 32 - Java File Handl**(Date: 23-Jan-2025)**
+**(Focus: CSV Handling from Basics to Advanced Scenarios)**
+
+- Practiced reading, writing, and counting records in CSV files using structured data formats.
+- Implemented filtering, searching, updating, and sorting CSV records based on business rules.
+- Worked on data validation using regex, duplicate detection, and conversion of CSV data into Java objects.
+- Handled advanced operations like merging multiple CSV files and processing large CSV files efficiently in chunks.
+- Explored real-world integrations including database-to-CSV reporting, JSON ↔ CSV conversion, and encrypting/decrypting sensitive CSV fields.
+
+🔗 *Code Link:*  
+👉 [Day 32 – CSV Data Handling Practice](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/IOProgramming/src/com/csvhandling)
+
+
