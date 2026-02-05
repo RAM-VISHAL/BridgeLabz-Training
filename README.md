@@ -583,4 +583,17 @@ contacts and relationships
 🔗 **Code Link:**  
 👉 [Day 29 – Sorting Scenario based problem solving](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/dsaScenarioBased/src/com/sorting)
 
+###  Java: Exception Handling
+**(Date: 20-Jan-2025)**
+**(Focus: Handling Runtime Errors and Building Robust Applications)**
+
+- Studied Java Exception Handling to manage runtime errors and prevent abnormal program termination.
+- Learned the use of try, catch, finally, throw, and throws keywords for controlled error handling.   
+- Explored checked vs unchecked exceptions and common exceptions like NullPointerException, ArithmeticException, and IOException.
+- Practiced creating and using custom exceptions for application-specific error scenarios.
+- Focused on writing robust, readable, and maintainable code with proper exception-handling best practices.
+
+🔗 *Code Link:*
+👉 [Day 29 – Exception Handling Practice](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/exceptions)
+
 ---
