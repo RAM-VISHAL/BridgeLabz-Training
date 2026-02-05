@@ -1,26 +1,13 @@
-## 🗓 Day 1 – Git & GitHub Setup  
-**Date:** 16-Dec-2025
+# Week 5: Java IOStreams
 
-### 🔹 Activities Performed
-- Installed and configured Git on the local system.
-- Created and set up a GitHub repository for training work.
-- Understood the basic Git workflow and version control concepts.
-- Created the initial project folder structure:
-~~~
-BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── program-prerequisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
-~~~
-- Learned basic Git commands: `init`, `clone`, `add`, `commit`, `push`.
-- Successfully pushed files to the remote repository.
+## 📅 Day 1 – Java File Handling: CSV Data Handling  
+**(Date: 23-Jan-2025)**
 
+- Practiced reading, writing, and counting records in CSV files using structured data formats.
+- Implemented filtering, searching, updating, and sorting CSV records based on business rules.
+- Worked on data validation using regex, duplicate detection, and conversion of CSV data into Java objects.
+- Handled advanced operations like merging multiple CSV files and processing large CSV files efficiently in chunks.
+- Explored real-world integrations including database-to-CSV reporting, JSON ↔ CSV conversion, and encrypting/decrypting sensitive CSV fields.
+
+🔗 *Code Link:*  
+👉 [Day 1 – CSV Data Handling Practice](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/IOProgramming/src/com/csvhandling)
