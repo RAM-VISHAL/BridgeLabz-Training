@@ -597,3 +597,16 @@ contacts and relationships
 👉 [Day 29 – Exception Handling Practice](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/exceptions)
 
 ---
+## 📅 Day 30 – Java Fundamentals: Regex & JUnit
+**(Date: 21-Jan-2026)**
+**(Focus: Regular Expressions & Unit Testing)**
+
+- Studied Regex basics including metacharacters and quantifiers for building effective patterns.
+- Implemented common regex use cases such as email validation, password strength checks, and phone number formatting.
+- Worked with the Java Regex API, using Pattern and Matcher classes for pattern matching.
+- Practiced important regex methods: find(), matches(), and replaceAll() for string validation and manipulation.
+- Learned JUnit fundamentals including annotations, test case writing, test class structure, and assertions for validating logic.
+  
+🔗 *Code Link:*  
+👉 [Day 30 – Regex, Junit ](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/regex)
+👉 [Day 30 – Regex, Junit ](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/junitpractice/src)
