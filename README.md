@@ -679,3 +679,18 @@ contacts and relationships
 🔗 *Code Link*
 [Day 34: Lambda, Method refrence and Interface](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/lambdaexpressions)
 
+---
+### Day 36: Interfaces (Functional, Marker and static Default methods)
+**Date:** 28-Jan-2026
+
+- Implemented different types of interfaces in Java.
+- Worked with **Marker Interfaces** for tagging and conditional behavior.
+- Used **Static methods in interfaces** for utility-style functionality.
+- Implemented **Default methods** to provide common behavior across classes.
+- Created and used **Functional Interfaces** for lambda expression support.
+- Practiced real-world Problems.
+- Committed and pushed all solutions.
+
+🔗 *Code Link*
+[Day 36: Interfaces](https://github.com/RAM-VISHAL/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/functionalinterface)
+
